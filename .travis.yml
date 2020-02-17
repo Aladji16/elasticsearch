@@ -6,6 +6,7 @@ dist: trusty
 jdk:
   - openjdk13
   - openjdk-ea
+  - openjdk8-jdk
 
 
 matrix:
